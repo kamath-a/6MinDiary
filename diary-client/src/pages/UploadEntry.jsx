@@ -1,8 +1,8 @@
 import { Link } from "react-router-dom";
-export function Write_Entry() {
+export function UploadEntry() {
   return (
     <>
-      <h1>This is where you write a new entry!</h1>
+      <h1>This is where you upload an entry!</h1>
       <Link to="/dashboard">Back to dashboard</Link>
     </>
   );
