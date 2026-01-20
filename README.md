@@ -12,3 +12,11 @@ The evening entry:
   - 3 great things that happened that day
   
 As much as I love the physical diary itself, I want to create a digital version of it to: a) filter through past entries by dates or keywords, and b) use past entries to gain insights into behavioural patterns and track improvements.
+
+To Do:
+<ul>
+  <li><input type="checkbox"/> Polish and refine user interface</li>
+  <li><input type="checkbox"/> Store user entries in a database</li>
+  <li><input type="checkbox"/> Allow user to create an account</li>
+  <li><input type="checkbox"/> Analyse previous entries</li>
+</ul>
