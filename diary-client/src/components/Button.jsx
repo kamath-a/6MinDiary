@@ -1,8 +1,8 @@
-export function Button() {
+export function Button({ label }) {
   return (
     <>
       <button>
-        <p>Enter</p>
+        <p>{label}</p>
       </button>
       <br />
     </>

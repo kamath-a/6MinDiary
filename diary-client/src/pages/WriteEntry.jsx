@@ -11,7 +11,7 @@ export function WriteEntry() {
     <>
       <h1>This is where you write a new entry!</h1>
       {isMorning ? <MorningEntry /> : <EveningEntry />}
-      <Button />
+      <Button label="Submit Entry" />
       <Link to="/dashboard">Back to dashboard</Link>
     </>
   );
